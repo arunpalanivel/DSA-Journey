@@ -1,4 +1,4 @@
-# 🚀 DSA-Journey — Prime Arun 2.0
+# 🚀 DSA-Journey 
 
 > My 60-day commitment to mastering Data Structures and Algorithms in Java.  
 > Following **Striver’s A2Z DSA Sheet** step by step — with clean code, version control, and discipline.
