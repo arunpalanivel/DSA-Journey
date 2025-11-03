@@ -123,7 +123,7 @@ If you'd like to contribute or suggest improvements:
 
 **Arun Palanivel**  
 “Code. Commit. Conquer.” 💪  
-[GitHub Profile](https://github.com/arunpalani)
+[GitHub Profile](https://github.com/arunpalanivel)
 
 ---
 
