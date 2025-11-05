@@ -24,6 +24,7 @@ public class Inverted_Right_Pyramid {
             }
             System.out.println();
         }
+        scanner.close();
     }
 }
 

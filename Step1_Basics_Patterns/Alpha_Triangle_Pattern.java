@@ -41,6 +41,7 @@ public class Alpha_Triangle_Pattern {
             max--; // D C B ;
             System.out.println();
         }
+        scanner.close();
 
 
     }

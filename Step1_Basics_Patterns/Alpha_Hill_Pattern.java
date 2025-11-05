@@ -55,5 +55,6 @@ public class Alpha_Hill_Pattern {
 
             System.out.println();
         }
+        scanner.close();
     }
 }

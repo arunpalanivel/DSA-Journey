@@ -23,6 +23,7 @@ public class Right_Angled_Number_Pyramid_II {
             }
             System.out.println();
         }
+        scanner.close();
     }
 }
 

@@ -39,6 +39,7 @@ public class Inverted_Star_Pyramid {
 
             System.out.println();
         }
+        scanner.close();
     }
 }
 

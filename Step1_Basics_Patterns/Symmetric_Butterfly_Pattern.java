@@ -72,5 +72,6 @@ public class Symmetric_Butterfly_Pattern {
             }
             System.out.println();
         }
+        scanner.close();
     }
 }

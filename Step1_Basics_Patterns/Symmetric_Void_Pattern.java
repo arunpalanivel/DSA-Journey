@@ -75,5 +75,6 @@ public class Symmetric_Void_Pattern {
             }
             System.out.println();
         }
+        scanner.close();
     }
 }

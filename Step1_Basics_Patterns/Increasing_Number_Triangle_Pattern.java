@@ -34,5 +34,6 @@ public class Increasing_Number_Triangle_Pattern {
             }
             System.out.println();
         }
+        scanner.close();
     }
 }

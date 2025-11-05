@@ -24,6 +24,7 @@ public class Right_Angled_Triangle_Pattern {
             }
             System.out.println();
         }
+        scanner.close();
     }
 }
 

@@ -51,5 +51,6 @@ public class Half_Diamond_Star_Pattern {
             }
             System.out.println();
         }
+        scanner.close();
     }
 }

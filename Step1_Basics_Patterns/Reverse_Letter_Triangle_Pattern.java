@@ -35,5 +35,6 @@ public class Reverse_Letter_Triangle_Pattern {
             }
             System.out.println();
         }
+        scanner.close();
     }
 }

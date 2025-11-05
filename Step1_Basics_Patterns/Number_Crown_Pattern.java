@@ -45,5 +45,6 @@ public class Number_Crown_Pattern {
 
             System.out.println();
         }
+        scanner.close();
     }
 }

@@ -24,6 +24,7 @@ public class Rectangular_Star_Pattern {
             }
             System.out.println();
         }
+        scanner.close();
     }
 }
 

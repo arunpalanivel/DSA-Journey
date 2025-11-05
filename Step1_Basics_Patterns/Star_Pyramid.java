@@ -37,6 +37,7 @@ public class Star_Pyramid {
 
             System.out.println();
         }
+        scanner.close();
     }
 }
 

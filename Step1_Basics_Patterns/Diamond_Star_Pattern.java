@@ -58,6 +58,7 @@ public class Diamond_Star_Pattern {
             }
             System.out.println();
         }
+        scanner.close();
     }
 }
 

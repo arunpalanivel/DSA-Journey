@@ -34,5 +34,6 @@ public class Alpha_Ramp_Pattern {
             ch++;
             System.out.println();
         }
+        scanner.close();
     }
 }

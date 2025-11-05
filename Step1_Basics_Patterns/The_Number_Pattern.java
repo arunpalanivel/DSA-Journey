@@ -69,5 +69,6 @@ public class The_Number_Pattern {
             System.out.println();
 
         }
+        scanner.close();
     }
 }

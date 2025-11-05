@@ -50,5 +50,6 @@ public class Hollow_Rectangle_Pattern {
             }
             System.out.println();
         }
+        scanner.close();
     }
 }
