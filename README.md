@@ -69,23 +69,23 @@ Each file should start with:
 
 ## 📈 Progress Tracker
 
-| Step | Topic | Status |
-| :--- | :--- | :--- |
-| 1 | Basics & Patterns | 🔄 In Progress |
-| 2 | Sorting | ⏳ Pending |
-| 3 | Arrays | ⏳ Pending |
-| 4 | Binary Search | ⏳ Pending |
-| 5 | Strings | ⏳ Pending |
-| 6 | Linked Lists | ⏳ Pending |
-| 7 | Recursion & Backtracking | ⏳ Pending |
-| 8 | Bit Manipulation | ⏳ Pending |
-| 9 | Stacks & Queues | ⏳ Pending |
-| 10 | Sliding Window | ⏳ Pending |
-| 11 | Heaps | ⏳ Pending |
-| 12 | Binary Trees | ⏳ Pending |
-| 13 | BST | ⏳ Pending |
-| 14 | Graphs | ⏳ Pending |
-| 15 | Dynamic Programming (DP) | ⏳ Pending |
+| Step | Topic | Status      |
+| :--- | :--- |:------------|
+| 1 | Basics & Patterns | ✅ Completed |
+| 2 | Sorting | 🔄 In Progress |
+| 3 | Arrays | ⏳ Pending   |
+| 4 | Binary Search | ⏳ Pending   |
+| 5 | Strings | ⏳ Pending   |
+| 6 | Linked Lists | ⏳ Pending   |
+| 7 | Recursion & Backtracking | ⏳ Pending   |
+| 8 | Bit Manipulation | ⏳ Pending   |
+| 9 | Stacks & Queues | ⏳ Pending   |
+| 10 | Sliding Window | ⏳ Pending   |
+| 11 | Heaps | ⏳ Pending   |
+| 12 | Binary Trees | ⏳ Pending   |
+| 13 | BST | ⏳ Pending   |
+| 14 | Graphs | ⏳ Pending   |
+| 15 | Dynamic Programming (DP) | ⏳ Pending   |
 
 ---
 
