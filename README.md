@@ -72,8 +72,8 @@ Each file should start with:
 | Step | Topic | Status      |
 | :--- | :--- |:------------|
 | 1 | Basics & Patterns | ✅ Completed |
-| 2 | Sorting | 🔄 In Progress |
-| 3 | Arrays | ⏳ Pending   |
+| 2 | Sorting | ✅ Completed |
+| 3 | Arrays |  🔄 In Progress   |
 | 4 | Binary Search | ⏳ Pending   |
 | 5 | Strings | ⏳ Pending   |
 | 6 | Linked Lists | ⏳ Pending   |
