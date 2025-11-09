@@ -32,7 +32,7 @@
  * 📂 Repository: https://github.com/arunpalanivel/DSA-Journey
  */
 
-public class Insertion_Sort {
+public class InsertionSort {
     public static void insertion(int[] arr, int n){
         for(int i = 1; i < n; i++){ // starts from index 1
             int key = arr[i];

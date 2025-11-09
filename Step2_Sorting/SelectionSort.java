@@ -33,7 +33,7 @@
  */
 
 
-public class Selection_Sort {
+public class SelectionSort {
     public static void selection(int[] arr, int n){
         for(int i=0;i<n;i++){
             int min_index = i;

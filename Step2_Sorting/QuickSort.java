@@ -33,7 +33,7 @@
  */
 
 
-public class Quick_Sort {
+public class QuickSort {
     public static int partition(int[] arr, int low, int high){
         int start = low;
         int end = high;

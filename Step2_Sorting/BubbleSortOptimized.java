@@ -30,7 +30,7 @@
  * 📂 Repository: https://github.com/arunpalanivel/DSA-Journey
  */
 
-public class Bubble_Sort_Optimized {
+public class BubbleSortOptimized {
     public static void bubble(int[] arr, int n){
         for(int i=0;i<n;i++){
             boolean swapped = false;
