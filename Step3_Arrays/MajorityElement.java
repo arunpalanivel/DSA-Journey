@@ -50,7 +50,7 @@
  * - Moore's Algorithm gives the correct majority only when majority is guaranteed.
  * - If not guaranteed, a second pass is needed — but not required here.
  *
- * 📅 Date: 2025-11-XX
+ * 📅 Date: 2025-11-15
  * 🧑‍💻 Author: Arun Palanivel
  * 📂 Repository: https://github.com/arunpalanivel/DSA-Journey
  */

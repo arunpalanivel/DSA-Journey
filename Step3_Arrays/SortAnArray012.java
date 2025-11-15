@@ -40,7 +40,7 @@
  * - Already sorted array
  * - Reverse sorted array
  *
- * 📅 Date: 2025-11-XX
+ * 📅 Date: 2025-11-15
  * 🧑‍💻 Author: Arun Palanivel
  * 📂 Repository: https://github.com/arunpalanivel/DSA-Journey
  */
