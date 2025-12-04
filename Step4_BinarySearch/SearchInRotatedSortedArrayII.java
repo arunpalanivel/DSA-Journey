@@ -1,7 +1,7 @@
 /**
  * 🧩 Problem #29 - Search in Rotated Sorted Array II (With Duplicates)
  * 🔢 LeetCode Problem: 81 (Search in Rotated Sorted Array II)
- * Step: 3 (Binary Search / Arrays)
+ * Step: 4 (Binary Search / Arrays)
  *
  * 🧠 Approach Implemented:
  *
@@ -43,7 +43,7 @@
  *
  * 📅 Date: 2025-12-02
  * 🧑‍💻 Author: Arun Palanivel
- * 🔗 Source: Striver’s A2Z DSA Sheet — Step 3
+ * 🔗 Source: Striver’s A2Z DSA Sheet — Step 4
  * 📂 Repository: https://github.com/arunpalanivel/DSA-Journey
  */
 

@@ -1,7 +1,7 @@
 /**
  * 🧩 Problem #30 - Find Minimum in Rotated Sorted Array
  * 🔢 LeetCode Problem: 153 (Find Minimum in Rotated Sorted Array)
- * Step: 3 (Binary Search / Arrays)
+ * Step: 4 (Binary Search / Arrays)
  *
  * 🧠 Approach Implemented:
  *
@@ -42,7 +42,7 @@
  *
  * 📅 Date: 2025-11-30
  * 🧑‍💻 Author: Arun Palanivel
- * 🔗 Source: Striver’s A2Z DSA Sheet — Step 3
+ * 🔗 Source: Striver’s A2Z DSA Sheet — Step 4
  * 📂 Repository: https://github.com/arunpalanivel/DSA-Journey
  */
 

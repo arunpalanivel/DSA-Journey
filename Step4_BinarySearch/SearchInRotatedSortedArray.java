@@ -1,7 +1,7 @@
 /**
  * 🧩 Problem #28 - Search in Rotated Sorted Array
  * 🔢 LeetCode Problem: 33 (Search in Rotated Sorted Array)
- * Step: 3 (Binary Search on Answers / Arrays)
+ * Step: 4 (Binary Search on Answers / Arrays)
  *
  * 🧠 Approach Implemented:
  * - Use a modified binary search on the rotated sorted array.
@@ -34,7 +34,7 @@
  *
  * 📅 Date: 2025-12-02
  * 🧑‍💻 Author: Arun Palanivel
- * 🔗 Source: Striver’s A2Z DSA Sheet — Step 3
+ * 🔗 Source: Striver’s A2Z DSA Sheet — Step 4
  * 📂 Repository: https://github.com/arunpalanivel/DSA-Journey
  */
 
